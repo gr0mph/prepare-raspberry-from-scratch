@@ -30,6 +30,11 @@ https://www.linuxtrainingacademy.com/ssh-login-without-password/
 (maybe) under raspberry
 cd; ssh-keygen -t RSA -b 4096; cat .ssh/id_rsa.pub > .ssh/authorized_keys
 
+Install Dockeron Raspberry Pi via Ansible
+Docker + Raspberry Pi
+google : docker ansible pi
+
+git clone https://github.com/ocrozo/ansible-docker-pi
 
 
 Market:
